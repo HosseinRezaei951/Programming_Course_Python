@@ -1,6 +1,6 @@
 # Programming Course - Python
 
-Welcome to the Programming Course repository for Python. This repository contains coursework, projects, and special exercises based on the book "Introduction to Programming Using Python" by Y. Daniel Liang.
+Welcome to the Programming Course repository for Python. This repository contains coursework, projects, and special exercises based on the book "Introduction to Programming Using Python, by Y. Daniel Liang".
 
 ## Directory Structure
 
@@ -26,7 +26,7 @@ The `Project` directory contains Python scripts related to various projects, org
 - `Project/Phase3`:
   - `Division.py`: Python script for division operations.
   - `N_Factorial.py`: Python script to compute the factorial of a number.
-  - `Reminder.py`: Python script for calculating remainders.
+  - `Reminder.py`: Python script for calculating division remainder.
   - `Multiplication.py`: Python script for multiplication operations.
   - `Subtraction.py`: Python script for subtraction operations.
   - `Summation.py`: Python script for summation operations.
