@@ -6,15 +6,15 @@ Welcome to the Programming Course repository for Python. This repository contain
 
 ### Chapters
 
-The `Chapters` directory contains solutions and exercises from the textbook, organized by chapter:
+The `Chapters` directory contains solutions from the textbook, organized by chapter:
 
-- `Chapter2`: Exercises and solutions from Chapter 2 of the textbook.
-- `Chapter3`: Exercises and solutions from Chapter 3 of the textbook.
-- `Chapter4`: Exercises and solutions from Chapter 4 of the textbook.
-- `Chapter5`: Exercises and solutions from Chapter 5 of the textbook.
-- `Chapter6`: Exercises and solutions from Chapter 6 of the textbook.
-- `Chapter8`: Exercises and solutions from Chapter 8 of the textbook.
-- `Chapter10`: Exercises and solutions from Chapter 10 of the textbook.
+- `Chapter2`: Solutions from Chapter 2 of the textbook.
+- `Chapter3`: Solutions from Chapter 3 of the textbook.
+- `Chapter4`: Solutions from Chapter 4 of the textbook.
+- `Chapter5`: Solutions from Chapter 5 of the textbook.
+- `Chapter6`: Solutions from Chapter 6 of the textbook.
+- `Chapter8`: Solutions from Chapter 8 of the textbook.
+- `Chapter10`: Solutions from Chapter 10 of the textbook.
 
 ### Projects
 
