@@ -42,9 +42,3 @@ The `Specials` directory contains additional Python scripts that cover special t
 - `Specials/N_Factorial.py`: Python script for calculating factorial (also found in Project).
 - `Specials/Prime_Generator.py`: Python script to generate prime numbers.
 - `Specials/Random_Walk.py`: Python script for simulating a random walk.
-
-## How to Use
-
-1. **Clone the Repository**: To access the files locally, clone the repository using:
-   ```bash
-   git clone https://github.com/your-username/Programming_Course_Python.git
